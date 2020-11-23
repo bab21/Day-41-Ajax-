@@ -10,4 +10,4 @@ function showSessionExpire(){
 
 console.log("Activity-A : Triggerring Activity -B at"+showTime());
 setTimeout(showSessionExpire,5000);
-console.log("Activity-A Tiggered Activity-B at "+showTime());
+console.log("Activity-A :Tiggered Activity-B at "+showTime());
